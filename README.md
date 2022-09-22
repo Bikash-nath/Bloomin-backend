@@ -14,3 +14,7 @@ https://bloomin.herokuapp.com/api/plants/:plantId
 
 > ## Views
 ![Bloomin](https://user-images.githubusercontent.com/73666943/186475221-a223bce1-5fb7-423d-9c0c-a6884c729082.png)
+
+
+> ### Packages & dependencies
+* [<em>Bloomin backend<em>](https://github.com/souravdn/Bloomin/)
