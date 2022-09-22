@@ -1,7 +1,7 @@
 {
   "name": "bloomin",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bloomin’ is a native mobile app that helps users to find accurate and reliable information efficiently to grow and track their plant's health with minimum efforts.",
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
