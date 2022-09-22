@@ -17,4 +17,4 @@ https://bloomin.herokuapp.com/api/plants/:plantId
 
 
 > ### Packages & dependencies
-* [<em>Bloomin backend<em>](https://github.com/souravdn/Bloomin/)
+* [<em>Bloomin frontend<em>](https://github.com/souravdn/Bloomin/)
