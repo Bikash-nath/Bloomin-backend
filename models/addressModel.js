@@ -4,8 +4,9 @@ const validator = require('validator');
 const bcrypt = require('bcryptjs');
 
 const addressSchema = new mongoose.Schema({
-  plantNo: String,
+ 
   street: String,
+  plantNo: String,
   city: String,
   pincode: {
     type: Number,
